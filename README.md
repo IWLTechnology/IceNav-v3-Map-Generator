@@ -3,7 +3,7 @@ An automated generator of IceNav-v3 vector tilemaps and routes.
 
 ## Settings
 ### Included maps
-The default maps can be changed in the file "maps-list.txt", where maps are separated by a new line. For example, to include the map https://download.geofabrik.de/australia-oceania/australia/act-latest.osm.pbf, add australia-oceania/australia/act to "maps-list.txt".
+The default maps can be changed in the file "maps-list.txt", where maps are separated by a new line. For example, to include the map https://download.geofabrik.de/australia-oceania/australia/act/act-latest.osm.pbf, add australia-oceania/australia/act/act to "maps-list.txt".
 ### Resolution
 The resolution of the maps is set to 1-16 by default. This can be changed in the file ".github/workflows/generator.yml".
 ### Water polygons
