@@ -1,2 +1,2 @@
-australia-oceania/australia/act
-australia-oceania/australia/western-australia
+australia-oceania/australia/act/act
+australia-oceania/australia/western-australia/western-australia
